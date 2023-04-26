@@ -1,0 +1,29 @@
+body{
+    height: 0;
+    width: 0;
+    box-sizing: border-box;
+    background-color: bisque;
+    display: flex;
+}
+.box{
+    height: 400px;
+    width: 500px;
+    margin-top: 200px;
+    margin-left: 850px;
+    border-radius: 50px;
+    background-color: #fff;
+    text-align: center;
+}
+a{
+    padding: 10px 50px;
+    border-radius: 5px;
+    background-color: pink;
+    text-decoration: none;
+    color: #fff;
+}
+head{
+    display: flex;
+    width: 2000px;
+    height: 100px;
+    justify-content: center;
+}
